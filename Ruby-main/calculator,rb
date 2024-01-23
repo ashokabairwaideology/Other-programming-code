@@ -1,0 +1,34 @@
+puts "enter first num:"
+num1= gets.chomp().to_f
+
+puts "enter second num:"
+num2= gets.chomp().to_f
+
+puts "enter operator: + - * / ** % *** "
+operator= gets.chomp()
+
+if operator=='+'
+  puts "num1 + num2",(num1+num2 )
+
+elsif operator=='-'
+  puts "num1 - num2",(num1-num2 )
+
+elsif operator=='*'
+  puts "num1 * num2",(num1*num2 )
+
+elsif operator=='/'
+  puts "num1 / num2",(num1/num2 )
+
+elsif operator=='**'
+  puts "num1 ** num2",(num1**num2 )
+
+elsif operator=='%'
+  puts "num1 % num2",(num1%num2 )
+
+elsif operator=='***'
+  puts "num1 *** num2",((num1 ** num2 )*num2)
+
+else
+  puts "operator not supported"
+
+end
