@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" />
-   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! Ashoka bairwa 👨🏻‍💻</h3>
 </p>
 
 <p align="center">
@@ -21,16 +21,16 @@
   </a>
 </p>
 
-### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
+### 📹 Ultimate videos on youtube (https://www.youtube.com/@ashoka-ideology382a)
 
-<a href='https://youtu.be/2CXDzkPxolI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/2CXDzkPxolI/mqdefault.jpg' alt='¡Todos mis cursos para Aprender Programación sin pagar nada!' />
+<a href='https://youtu.be/HV2NcIzRMEo?si=llHvH1qnWf-DtoDw' target='_blank'>
+  <img width='30%' src='https://youtu.be/HV2NcIzRMEo?si=llHvH1qnWf-DtoDw' alt='Dream' />
 </a>
-<a href='https://youtu.be/DCDE3MMbu1E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DCDE3MMbu1E/mqdefault.jpg' alt='Cuando sigues programando un viernes por la tarde.' />
+<a href='https://youtu.be/8KCn_z8zOmw?si=PnilFbDH-ZUD-viK' target='_blank'>
+  <img width='30%' src='https://youtu.be/8KCn_z8zOmw?si=PnilFbDH-ZUD-viK' alt='Daily motivation' />
 </a>
-<a href='https://youtu.be/J60YlqxWPXI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/J60YlqxWPXI/mqdefault.jpg' alt='¡Juegos para aprender CSS Flex y Grid!' />
+<a href='https://youtu.be/AuIzpaAC5Ig?si=6U6zf6zNGajw7CW0' target='_blank'>
+  <img width='30%' src='https://youtu.be/AuIzpaAC5Ig?si=6U6zf6zNGajw7CW0' alt='Fear' />
 </a>
 
 ### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
