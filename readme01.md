@@ -27,9 +27,20 @@
 
 
 
+### 
+<div>
+<div>
+	
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashokabairwaideology&theme=dracula)
 
+</div>
 
-
+<div align="right">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokabairwaideology&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&order=2" height="210" alt="languages graph"  />
+ 
+</div>
+</div>
 
 # 💻 Tech Stack
 ### Web development
@@ -89,16 +100,13 @@
 ## 📊 GitHub Stats 📈
 ###
 
-<div align="left">
+<div align="auto" height="210">
   <img src="https://github-readme-stats.vercel.app/api?username=ashokabairwaideology&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="210" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokabairwaideology&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&order=2" height="210" alt="languages graph"  />
-
-
 </div>
 
 ### 
 ## Leetcode
-  <div align="center" width="100%">
+  <div align="left" width="100%">
  
   ![LeetCode Stats](https://leetcode.card.workers.dev/Ashoka_bairwa?theme=auto&font=baloo&extension=null)
  
