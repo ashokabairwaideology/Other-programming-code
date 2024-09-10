@@ -1,9 +1,23 @@
 ##
-<img align="centre" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-<img align="left" src="https://img.shields.io/github/followers/ashokabairwaideology" />
+<div>
+<div>
+<img align="left" src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+</div>
+<div>
 <img align="right" src="https://visitcount.itsvg.in/api?id=ashokabairwaideology&icon=6&color=10)](https://visitcount.itsvg.in" />
-
+</div>
+<div
+	
 ### 
+<p align="center">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ashokabairwaideology&style=flat&color=blue"/> •   
+  <a href="https://user-badge.committers.top/india_private/ashokabairwaideology"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"/></a> •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ashokabairwaideology?label=Followers&style=social"/> •
+  <img src="https://img.shields.io/github/stars/ashokabairwaideology?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+  <a href="https://github.com/sponsors/ashokabairwaideology"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
+
+###
 
 <img align="centre" height="50%" src="https://github.com/user-attachments/assets/32bac2f8-6bb2-41bf-9e93-76545d828306"  />
 
